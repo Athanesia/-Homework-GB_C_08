@@ -1,0 +1,15 @@
+/Users/athanesia/Desktop/Gb education/C#/Homework_008/Task_54/bin/Debug/net7.0/Task_54
+/Users/athanesia/Desktop/Gb education/C#/Homework_008/Task_54/bin/Debug/net7.0/Task_54.deps.json
+/Users/athanesia/Desktop/Gb education/C#/Homework_008/Task_54/bin/Debug/net7.0/Task_54.runtimeconfig.json
+/Users/athanesia/Desktop/Gb education/C#/Homework_008/Task_54/bin/Debug/net7.0/Task_54.dll
+/Users/athanesia/Desktop/Gb education/C#/Homework_008/Task_54/bin/Debug/net7.0/Task_54.pdb
+/Users/athanesia/Desktop/Gb education/C#/Homework_008/Task_54/obj/Debug/net7.0/Task_54.csproj.AssemblyReference.cache
+/Users/athanesia/Desktop/Gb education/C#/Homework_008/Task_54/obj/Debug/net7.0/Task_54.GeneratedMSBuildEditorConfig.editorconfig
+/Users/athanesia/Desktop/Gb education/C#/Homework_008/Task_54/obj/Debug/net7.0/Task_54.AssemblyInfoInputs.cache
+/Users/athanesia/Desktop/Gb education/C#/Homework_008/Task_54/obj/Debug/net7.0/Task_54.AssemblyInfo.cs
+/Users/athanesia/Desktop/Gb education/C#/Homework_008/Task_54/obj/Debug/net7.0/Task_54.csproj.CoreCompileInputs.cache
+/Users/athanesia/Desktop/Gb education/C#/Homework_008/Task_54/obj/Debug/net7.0/Task_54.dll
+/Users/athanesia/Desktop/Gb education/C#/Homework_008/Task_54/obj/Debug/net7.0/refint/Task_54.dll
+/Users/athanesia/Desktop/Gb education/C#/Homework_008/Task_54/obj/Debug/net7.0/Task_54.pdb
+/Users/athanesia/Desktop/Gb education/C#/Homework_008/Task_54/obj/Debug/net7.0/Task_54.genruntimeconfig.cache
+/Users/athanesia/Desktop/Gb education/C#/Homework_008/Task_54/obj/Debug/net7.0/ref/Task_54.dll
